@@ -4,7 +4,7 @@
 # Made by Marcus Burghardt
 ###############
 
-# Esse e um script para praticar as variaveis especiais.
+# Esse e um script para praticar os laços.
 
 # Exemplo de laco usando for.
 echo "Inicio do laco com FOR."
